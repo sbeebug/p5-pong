@@ -1,7 +1,8 @@
 //Sabrina Oliver
-//
-//
-//
+//so6299@bard.edu
+//feb 26 2017
+//I worked alone on this assignment
+//reflection: I wanted the updated pong game to be more trippy and cool to look at. I wanted the balls path to be visible as it moved.
 
 var paddle_x, paddle_y;
 var paddle_w, paddle_h;
